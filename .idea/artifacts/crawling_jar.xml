@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="crawling:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/crawling_jar</output-path>
+    <root id="archive" name="crawling.jar">
+      <element id="module-output" name="crawling" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../selenium-server-4.1.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
